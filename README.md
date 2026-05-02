@@ -347,6 +347,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://probe.dev/favicon.ico" height="14"/> [Probe.dev](https://mcp.probe.dev) - Professional media analysis and validation MCP server with FFprobe, MediaInfo, and comprehensive reporting capabilities
 - <img src="https://cdn.simpleicons.org/apple/7ED957" height="14"/> [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search 300,000+ foods, nutrition facts, and barcodes from the OpenNutrition database
 - <img src="https://congressmcp.lawgiver.ai/favicon.svg" height="14"/> [Congress](https://github.com/amurshak/congressMCP) - Query and reeason about legislative data from Congress.gov
+- <img src="https://bidda.com/favicon.ico" height="14"/> [Bidda Sovereign Intelligence](https://github.com/Bidda-Ai/bidda-mcp) - Search 3,680 cryptographically-verified regulatory compliance nodes across 31 pillars — EU AI Act, GDPR, Basel III, HIPAA, DORA, FATF and 150+ others. Every node traces to primary legal instruments (avg 7 citations) with zero hallucination.
 
 <br />
 
